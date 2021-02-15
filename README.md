@@ -68,7 +68,7 @@
 | RESTFUL websites | https://bit.ly/3jQuByC | python for backend, flask, sqlalchemey|
 | Authentication&Autherization |    https://bit.ly/37hsUFr | HTML&CSS, JavaScript, Ajax, python for backend, flask|
 | google map API |    https://bit.ly/3angrSB | HTML&CSS, JavaScript|
-| google map API |    https://bit.ly/3angrSB | HTML&CSS, JavaScript|
+
 
 
 ## General Topics
