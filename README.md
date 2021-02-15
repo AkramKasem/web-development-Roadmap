@@ -50,6 +50,27 @@
 
 ## Back-end
 
+### networks for web development
+| Course name | LINK |
+|----------|:-------------:|
+| networks for web development |  https://bit.ly/3b3LaDj |
+| How HTTP work |    https://bit.ly/3jP0S94  |
+
+### DataBases
+| Course name | LINK |
+|----------|:-------------:|
+| princeples of Design |  https://bit.ly/2Ze4QPc |
+| introduction to relational database |    https://bit.ly/3rY2Oin |
+
+### General Topics
+| Course name | LINK | prequestes
+|----------|:-------------:|:-------------:|
+| RESTFUL websites | https://bit.ly/3jQuByC | python for backend, flask, sqlalchemey|
+| Authentication&Autherization |    https://bit.ly/37hsUFr | HTML&CSS, JavaScript, Ajax, python for backend, flask|
+| google map API |    https://bit.ly/3angrSB | HTML&CSS, JavaScript|
+| google map API |    https://bit.ly/3angrSB | HTML&CSS, JavaScript|
+
+
 ## General Topics
 | Course name | LINK | prequestes|
 |----------|:-------------:|:-------------:|
