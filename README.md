@@ -39,7 +39,7 @@
 | Asynchronous JavaScript Requests |    https://bit.ly/3jOTQkG |
 | javaScript front-end Frameworks |    https://bit.ly/3qnOPlB |
 
-### General Topics
+### General Topics in Front-End
 | Course name | LINK | prequestes
 |----------|:-------------:|:-------------:|
 | HTML5 Canvas |    https://bit.ly/37wG41x | HTML&CSS, JavaScript|
@@ -62,7 +62,7 @@
 | princeples of Design |  https://bit.ly/2Ze4QPc |
 | introduction to relational database |    https://bit.ly/3rY2Oin |
 
-### General Topics
+### General Topics in Back-End
 | Course name | LINK | prequestes
 |----------|:-------------:|:-------------:|
 | RESTFUL websites | https://bit.ly/3jQuByC | python for backend, flask, sqlalchemey|
