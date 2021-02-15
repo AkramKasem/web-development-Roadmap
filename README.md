@@ -60,6 +60,11 @@
 | Course name | LINK |
 |----------|:-------------:|
 | Introduction to Python Programming |  https://bit.ly/3b8zWxc |
+| Intro to Data Structures and Algorithms|  https://bit.ly/3aiLYou |
+| Software Debugging|  https://bit.ly/3rY5E71 |
+
+| Course name | LINK |
+|----------|:-------------:|
 | Intro to Backend in python |   https://bit.ly/3rV97mU |
 | Full Stack Foundations |   https://bit.ly/3qz20k5 |
 | Developing Scalable Apps in Python |  https://bit.ly/3bafoUW |
