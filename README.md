@@ -2,13 +2,13 @@
 
 ## Front-end 
 
-### princeples of design and modeling
+#### princeples of design and modeling
 | Course name | LINK |
 |----------|:-------------:|
 | design of everything |  https://bit.ly/37wE2OX |
 | prototyping |    https://bit.ly/3b3R33j   |
 
-### HTML & CSS
+#### HTML & CSS
 | Course name | LINK |
 |----------|:-------------:|
 | introduction to HTML&CSS |  https://bit.ly/3bauBWp |
@@ -16,7 +16,7 @@
 | responsive images |    https://bit.ly/2LPVHcy |
 | Web Accessibility|    https://bit.ly/3amGWqY |
 
-### JavaScript
+#### JavaScript
 | Course name | LINK |
 |----------|:-------------:|
 | introduction to javaScript | https://bit.ly/2LOGJDA |
@@ -39,7 +39,7 @@
 | Asynchronous JavaScript Requests |    https://bit.ly/3jOTQkG |
 | javaScript front-end Frameworks |    https://bit.ly/3qnOPlB |
 
-### General Topics in Front-End
+#### General Topics in Front-End
 | Course name | LINK | prequestes
 |----------|:-------------:|:-------------:|
 | HTML5 Canvas |    https://bit.ly/37wG41x | HTML&CSS, JavaScript|
@@ -50,19 +50,19 @@
 
 ## Back-end
 
-### networks for web development
+#### networks for web development
 | Course name | LINK |
 |----------|:-------------:|
 | networks for web development |  https://bit.ly/3b3LaDj |
 | How HTTP work |    https://bit.ly/3jP0S94  |
 
-### DataBases
+#### DataBases
 | Course name | LINK |
 |----------|:-------------:|
 | princeples of Design |  https://bit.ly/2Ze4QPc |
 | introduction to relational database |    https://bit.ly/3rY2Oin |
 
-### General Topics in Back-End
+#### General Topics in Back-End
 | Course name | LINK | prequestes
 |----------|:-------------:|:-------------:|
 | RESTFUL websites | https://bit.ly/3jQuByC | python for backend, flask, sqlalchemey|
