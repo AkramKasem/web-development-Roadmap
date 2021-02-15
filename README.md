@@ -51,3 +51,11 @@
 ## Back-end
 
 ## General Topics
+| Course name | LINK | prequestes|
+|----------|:-------------:|:-------------:|
+| Write readMe |  https://bit.ly/3rRkxbq | None|
+| Version Control with Git|    https://bit.ly/3rXBoZY  | None|
+| introduction to devops |    https://bit.ly/37hnABP | Version Control|
+| Intro to Progressive Web Apps |    https://bit.ly/3dezLmL | HTML&CSS, JavaScript|
+| Offline Web Applications |    https://bit.ly/3aiEy4C| HTML&CSS, JavaScript, Creating dynamic web apps|
+| Deploy your website at Heruko |    https://bit.ly/2OGhkgz | Version Control, object-oriented programming language for back-end (i.e php, python. ruby ..etc)|
