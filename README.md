@@ -56,6 +56,14 @@
 | networks for web development |  https://bit.ly/3b3LaDj |
 | How HTTP work |    https://bit.ly/3jP0S94  |
 
+#### python
+| Course name | LINK |
+|----------|:-------------:|
+| Introduction to Python Programming |  https://bit.ly/3b8zWxc |
+| Intro to Backend in python |   https://bit.ly/3rV97mU |
+| Full Stack Foundations |   https://bit.ly/3qz20k5 |
+| Developing Scalable Apps in Python |  https://bit.ly/3bafoUW |
+
 #### DataBases
 | Course name | LINK |
 |----------|:-------------:|
@@ -75,6 +83,7 @@
 ## General Topics
 | Course name | LINK | prequestes|
 |----------|:-------------:|:-------------:|
+| Programming Languages (build your own web browser) |  https://bit.ly/3jQXDOD | programming experience|
 | Write readMe |  https://bit.ly/3rRkxbq | None|
 | Version Control with Git|    https://bit.ly/3rXBoZY  | None|
 | introduction to devops |    https://bit.ly/37hnABP | Version Control|
